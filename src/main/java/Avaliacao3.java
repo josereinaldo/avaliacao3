@@ -3,7 +3,7 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.List;
 import java.util.ArrayList;
-import utfpr.ct.dainf.if62c.avaliacao.Lancamento;
+import utfpr.ct.dainf.if62c.avaliacao3.Lancamento;
 import utfpr.ct.dainf.if62c.avaliacao.LancamentoComparator;
 import utfpr.ct.dainf.if62c.avaliacao.ProcessaLancamentos;
 
